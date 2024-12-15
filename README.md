@@ -35,7 +35,9 @@
 - npm test
 
 ## Demo Video
-[Watch the demo video](React_FEM_Demo.mov)
+
+[![Watch the demo video](PADRE-GINOS.png)](React_FEM_Demo.mov)
+
 
 
 
