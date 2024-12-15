@@ -36,7 +36,10 @@
 
 #Demo
 
- ![Project Demo](screenshot.png)
+![Project Demo](https://drive.google.com/file/d/1z9SIt15T1sTkjb_9sJGa1v5BVa84ZWTQ/view?usp=drive_link)
+
+![Click the link to watch the demo video](https://drive.google.com/file/d/19xYx2RN5hk0B0zxuvJ-W4HGabci4OanO/view?usp=drive_link)
+
 
 #Acknowledgements
 
