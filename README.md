@@ -14,7 +14,6 @@
 - CSS 
 - ESLint, Prettier (for formatiig)
 
-
 #Installation
 
 1. Clone the repository:
@@ -35,10 +34,10 @@
 - Run tests using: (I have used vitest)
 - npm test
 
-  #Demo
+#Demo
 
-  ![Project Demo](screenshot.png)
+ ![Project Demo](screenshot.png)
 
-  #Acknowledgements
+#Acknowledgements
 
-  - Inspired by the Frontend Mentor React challenges
+- Inspired by the Frontend Mentor React challenges
