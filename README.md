@@ -34,11 +34,9 @@
 - Run tests using: (I have used vitest)
 - npm test
 
-#Demo
+## Demo Video
+[Watch the demo video](React_FEM_Demo.mov)
 
-![Project Demo](https://drive.google.com/file/d/1z9SIt15T1sTkjb_9sJGa1v5BVa84ZWTQ/view?usp=drive_link)
-
-![Click the link to watch the demo video](https://drive.google.com/file/d/19xYx2RN5hk0B0zxuvJ-W4HGabci4OanO/view?usp=drive_link)
 
 
 #Acknowledgements
