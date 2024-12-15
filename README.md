@@ -34,7 +34,7 @@
 - Run tests using: (I have used vitest)
 - npm test
 
-## Demo Video
+## Demo (click the image)
 
 [![Watch the demo video](PADRE-GINOS.png)](React_FEM_Demo.mov)
 
