@@ -1,20 +1,20 @@
 # React FEM Practice
 
-##Features
+## Features
 
 - Responsive design
 - Dynamic components with React
 - State management using hooks
 - Interactive UI elements (buttons, forms, etc.)
 
-##Tech Stack
+## Tech Stack
 
 - React
 - Vite
 - CSS 
 - ESLint, Prettier (for formatiig)
 
-##Installation
+## Installation
 
 1. Clone the repository:
    git clone https://github.com/Helan37/React_FEM.git
@@ -29,7 +29,7 @@
    npm run dev
 
 
-##Testing
+## Testing
 
 - Run tests using: (I have used vitest)
 - npm test
