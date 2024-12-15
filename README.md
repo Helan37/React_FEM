@@ -5,7 +5,7 @@
 - Responsive design
 - Dynamic components with React
 - State management using hooks
-- Interactive UI elements (buttons, forms, etc.)
+- Interactive UI elements.
 
 ## Tech Stack
 
@@ -13,19 +13,14 @@
 - Vite
 - CSS 
 - ESLint, Prettier (for formatiig)
+  
 
 ## Installation
 
-1. Clone the repository:
-   git clone https://github.com/Helan37/React_FEM.git
-
-2. Navigate into the project folder:
-   cd React_FEM
-
-3. Install dependencies:
+- Install dependencies:
    npm install
 
-4. Start the development server:
+- Start the development server:
    npm run dev
 
 
@@ -43,4 +38,5 @@
 
 ## Acknowledgements
 
-- Inspired by the Frontend Mentor React challenges
+- Learned from the Frontend Masters course on React.
+
