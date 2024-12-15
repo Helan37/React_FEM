@@ -39,6 +39,6 @@
 
 
 
-#Acknowledgements
+## Acknowledgements
 
 - Inspired by the Frontend Mentor React challenges
